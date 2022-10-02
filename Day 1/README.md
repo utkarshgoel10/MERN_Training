@@ -1,3 +1,3 @@
-## 1. Introduction
-## 2. HTML 
-## 3. CSS Intro 
+# 1. Introduction
+# 2. HTML 
+# 3. CSS Intro 
