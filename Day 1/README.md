@@ -1,4 +1,5 @@
 ## Session 01
-- Introduction
+- LinkedIn, Github
+- Web Introduction
 - HTML 
 - CSS Intro 
