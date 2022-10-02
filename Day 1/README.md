@@ -1,3 +1,4 @@
-# 1. Introduction
-# 2. HTML 
-# 3. CSS Intro 
+## Session 01
+- Introduction
+- HTML 
+- CSS Intro 
