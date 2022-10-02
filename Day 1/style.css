@@ -1,0 +1,16 @@
+*{
+    color: white;
+    background-color: black;
+}
+
+.center{
+    text-align: center;
+}
+
+.gray{
+    color: gray;
+}
+
+#heart{
+    text-align: center;
+}
