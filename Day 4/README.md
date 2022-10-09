@@ -1,0 +1,20 @@
+## Session 04
+- JS Intro
+- Js Linking
+- Variables
+- Data Types
+  - Number
+  - String
+  - Boolean
+- Null vs Undefined vs Not defined
+- Operators
+  - Arithmetic (+, -, *, /, **, %, ++, --)
+  - Assignment (=, +=, -=, *=, /=, %=)
+  - Comparision (==, !=, ===, !==, < , >, <=, >=)
+  - Logical (&&, ||, !)
+- Conditionals (If-Else)
+- Loops(for loop)
+- Functions
+- EcmaScript
+- var/let/const
+- Template Strings 
