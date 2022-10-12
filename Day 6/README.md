@@ -1,0 +1,20 @@
+## Session 06
+- DOM Accessing using getElementById
+- Events
+- Variables
+- Events
+  - click
+  - mouseover
+  - dblclick
+  - load
+- Using Events
+  - Alert 
+  - Inline Calling
+  - addEventListener
+- DOM Manipulation methods
+  - innerText
+  - appendChild
+  - removeChild
+  - createElement 
+- CSS in js
+- Tasks Project
