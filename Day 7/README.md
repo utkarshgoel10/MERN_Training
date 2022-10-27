@@ -1,0 +1,31 @@
+## Session 07
+- Arrow Functions
+- Strings
+  - Introduction
+  - Properties & Methods:
+  - length
+  - toUpperCase
+  - toLowerCase
+  - replace
+  - trim
+  - Immutable Strings  
+- Arrays
+  - Introduction
+  - Properties & Methods:
+  - length
+  - toString
+  - join
+  - pop
+  - splice
+  - push
+  - concat
+  - sort
+  - reverse
+- Array Traversal
+  - For Loops 
+  - For..in Loop
+  - For..of Loop
+  - forEach function
+  - map function
+  - filter function
+  - Chaining
