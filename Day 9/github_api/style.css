@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;}
+body{
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    background: #000;
+}
+.search-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 750px;
+    background: rgb(0, 140, 255);
+    border-radius: 10px;
+}
+.search-area input{
+    height: 45px;
+    width: 550px;
+    font-size: 18px;
+    outline: none;
+    /* border: 2px solic #444; */
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 650;
+}
+.search-area button{
+    height: 45px;
+    width: 150px;
+    font-weight: 750;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin: 0 0 0 10px;
+}
+.output-container{
+    height: 300px;
+    width: 750px;
+    background: #0e2563;
+    margin: 15px 0 0 0;
+    border-radius: 10px;
+}
+img{
+    margin-left: 15px;
+    position: absolute;
+    margin-top: 15px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 15px solid rgb(0, 140, 255);
+}
+
+.username h1{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 245px;
+    font-weight: 750;
+    color: white;
+}
+.bio p{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 245px;
+    width: 500px;
+    color: white;
+    margin-top: 75px;
+    position: absolute;
+}
+.info ul{
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 245px;
+    color: white;
+    display: flex;
+}
+ul li{font-weight: 650;
+    color: white;
+    letter-spacing: 2px;
+    margin: 15px;
+    padding: 5px 15px;
+    background: #687fbd;
+    list-style: none;
+}
+#output{
+    display: none;
+}
