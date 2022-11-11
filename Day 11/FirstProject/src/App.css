@@ -1,0 +1,7 @@
+.box{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
