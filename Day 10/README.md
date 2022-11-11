@@ -1,0 +1,15 @@
+## Session 10
+- Introduction to React JS
+  - [React Docs](https://reactjs.org/)
+- What are React Components?
+  - Break website into different blocks
+  - Reusability  
+- Steps to start working with React
+  - Install [Node](https://nodejs.org/en/download/) 
+  - Open VsCode
+  - Open Terminal
+  - Type ```node -v``` to ensure Node is installed
+  - Create React App by typing: ```npx create-react-app app_name```
+  - Once finished, go to main directory: ```cd app_name```
+  - Run your project: ```npm start```
+- Folder Structure  
