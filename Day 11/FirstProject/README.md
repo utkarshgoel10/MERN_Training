@@ -1,0 +1,14 @@
+## Session 08
+- Object Literals
+  - Introduction
+  - Object inside Object
+- JSON
+  - Syntax
+  - stringify
+  - parse
+- API
+  - Introduction
+  - Real-world example (MakeMyTrip)
+- API implementation
+  - Promises
+  - fetch()
