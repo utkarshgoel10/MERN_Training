@@ -1,0 +1,12 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  gap: 5rem;
+}
+
+.hero img {
+  max-width: 40%;
+  height: auto;
+}

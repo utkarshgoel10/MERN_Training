@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;   
+    scroll-behavior: smooth;     
+}
+::-webkit-scrollbar{
+    display: none;
+}
+body{
+    background-color: rgba(204, 204, 204, 0.213);
+}
