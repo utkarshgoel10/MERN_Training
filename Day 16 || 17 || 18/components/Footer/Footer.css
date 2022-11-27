@@ -1,0 +1,25 @@
+.footer{    
+    background-color: black;
+    color: #eee;
+    padding: 3rem 1rem;
+}
+
+.footer .container{
+    max-width: 1240px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: center;
+}
+
+.footer li{
+    padding: 1rem;
+}
+
+.nav-item:hover{
+    color: rgb(180, 179, 179);
+    transition: all ease 0.3s;
+}

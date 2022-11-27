@@ -1,0 +1,48 @@
+:root{
+  --primary-color: #5bb462;
+  --primary-dark:  #4f9c55;
+  --secondary-color: #ffea00;
+  --secondary-dark: #e3d002;
+}
+html{
+  scroll-behavior: smooth;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+
+.btn{
+  padding: 17px 28px;
+  font-size: 1.2rem;
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid var(--primary-color);
+  background-color: var(--primary-color); 
+}
+
+.btn:hover {
+  background: var(--primary-dark);
+  border: 1px solid var(--primary-dark);
+}
+
+.line {
+  display: block;
+  width: 40px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: var(--primary-color);
+}

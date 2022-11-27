@@ -1,0 +1,22 @@
+.box-grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;    
+    cursor: pointer;
+}
+
+.box img{
+    width: 25vw;
+    height: auto;
+    transition: all ease 0.4s;
+}
+.box img:hover{
+    opacity: 0.9;
+    transform: scale(1.02);
+}
+.box p{
+    font-size: 1.2rem;
+    font-weight: 600;
+}

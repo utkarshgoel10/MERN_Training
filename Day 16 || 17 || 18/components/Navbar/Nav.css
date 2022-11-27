@@ -1,0 +1,21 @@
+.nav {
+  background-color: rgb(0, 0, 0, 0.8);
+  color: #eee;
+  padding: 0.8rem 1rem;
+}
+
+.nav .container {
+  max-width: 1240px;
+  margin: auto;
+  text-align: center;
+}
+
+.nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.nav li {
+  padding: 1rem;
+}

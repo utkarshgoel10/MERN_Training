@@ -1,0 +1,47 @@
+.demo{
+    margin: 5rem auto;
+    padding: 1rem;    
+}
+
+.demo .container{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width: 1240px;
+}
+
+.demo .col-1{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.demo .col-1 p:nth-child(1){
+    font-size: 1.8rem;
+    font-style: italic;
+}
+.demo .col-1 p:nth-child(2){
+    font-size: 3rem;
+    font-weight: 600;
+    margin: 0.5rem 0;
+}
+.demo .col-1 p:nth-child(3){
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.demo .col-2{
+    margin: auto;
+}
+
+@media screen  and (max-width: 940px){
+    .demo .container{
+        max-width: 100%;
+        grid-template-columns: auto;
+        gap: 30px;
+    }
+    .iframe{
+        width: 100%;
+        height: auto;
+    }
+}
