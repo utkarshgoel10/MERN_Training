@@ -1,0 +1,16 @@
+## Session 22
+- Express Js
+  - [Express Docs](https://expressjs.com/)
+  - Node js Framework 
+- Steps to start working with Express
+  - Create a new folder 
+  - Type ```npm init```
+  - Install exp ```npm i express```
+- Server create
+- GET/Routes
+- Static Middleware
+- Template Engine (Ejs)
+  - Type ```npm i ejs```
+  - Type ```app.set('View Engine','ejs')```
+  - To verify ```console.log(app.get('View Engine'))```
+- Dynamic Content   
