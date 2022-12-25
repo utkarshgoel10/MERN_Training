@@ -4,7 +4,7 @@ import { Accordion, Badge, Button, Card } from "react-bootstrap";
 # Snippet
 ```
 {notes.map((note) => (
-        <Accordion defaultActiveKey={["0"]}>
+        <Accordion key={note._id} defaultActiveKey={["0"]}>
           <Accordion.Item eventkey="0">
             <Card style={{ margin: 10 }}>
               <Card.Header style={{ display: "flex" }}>
