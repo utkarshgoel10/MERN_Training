@@ -17,7 +17,7 @@ import {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="m-auto">
-              <Form inline>
+              <Form inline="true">
                 <FormControl
                   type="text"
                   placeholder="Search"
