@@ -1,0 +1,12 @@
+### Topics covered in this project which were not covered previously:
+- Requests & api redirection in Express (get/post)
+- Using env files
+- React Bootstrap
+- Axios
+- Async Await JS
+- Backend & frontend connection
+- MongoDB Atlas & connection
+- Mongoose
+- JWT Authentication
+- Local Storage
+- Deployment (Heroku + Github)
