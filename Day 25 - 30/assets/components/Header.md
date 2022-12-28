@@ -12,7 +12,7 @@ import {
 ```
 <Navbar collapseOnSelect expand="lg" bg="info" variant="dark">
         <Container>
-          <Navbar.Brand href="/">Note Zipper</Navbar.Brand>
+          <Navbar.Brand href="/">Note Locker</Navbar.Brand>
 
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
