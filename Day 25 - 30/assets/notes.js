@@ -7,8 +7,8 @@ const notes = [
   },
   {
     _id: "2",
-    title: "Learned some CSS",
-    content: "Learned how to create good looking pages.",
+    title: "Learnt some CSS",
+    content: "Learnt how to create good looking pages.",
     category: "Learning",
   },
   {
