@@ -8,5 +8,5 @@
 - MongoDB Atlas & connection
 - Mongoose
 - JWT Authentication
-- Local Storage
+- Local Storage + Redux for real world projects
 - Deployment (Heroku + Github)
