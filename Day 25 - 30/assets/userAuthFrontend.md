@@ -11,7 +11,9 @@ import TopScreen from "../../components/TopScreen";
 function LoginScreen() {
   // const [email, setEmail] = useState("");
   // const [password, setPassword] = useState("");
-
+  //const submitHandler = (e) => {
+    //e.preventDefault();    
+  //};
 
   return (
     <TopScreen title="LOGIN">
@@ -23,7 +25,7 @@ function LoginScreen() {
           margin: "20px",
         }}
       >
-        <Form>
+        <Form onSubmit={submitHandler}>
           <Form.Group controlId="formBasicEmail">
             <Form.Label>Email address</Form.Label>
             <Form.Control
@@ -79,7 +81,9 @@ function RegisterScreen() {
   //const [confirmpassword, setConfirmPassword] = useState("");
   //const [message, setMessage] = useState(null);
   //const [picMessage, setPicMessage] = useState(null);
-
+  //const submitHandler = (e) => {
+  //  e.preventDefault();
+  //};
   return (
     <TopScreen title="REGISTER">
       <div className="loginContainer"
@@ -88,7 +92,7 @@ function RegisterScreen() {
           flexDirection: "column",
           margin: "20px",
         }}>        
-        <Form>
+        <Form onSubmit={submitHandler}>
           <Form.Group controlId="name">
             <Form.Label>Name</Form.Label>
             <Form.Control
